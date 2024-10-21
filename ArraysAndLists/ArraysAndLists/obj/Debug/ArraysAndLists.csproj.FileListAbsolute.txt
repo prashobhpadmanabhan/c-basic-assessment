@@ -1,0 +1,7 @@
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+D:\Edstem\Assessment\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb

@@ -1,0 +1,7 @@
+D:\Edstem\Assessment\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Edstem\Assessment\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\Edstem\Assessment\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\Edstem\Assessment\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+D:\Edstem\Assessment\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\Edstem\Assessment\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\Edstem\Assessment\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

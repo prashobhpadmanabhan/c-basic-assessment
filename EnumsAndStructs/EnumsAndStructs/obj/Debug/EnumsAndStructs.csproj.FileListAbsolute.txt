@@ -1,0 +1,7 @@
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\bin\Debug\EnumsAndStructs.exe.config
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\bin\Debug\EnumsAndStructs.exe
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\bin\Debug\EnumsAndStructs.pdb
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\obj\Debug\EnumsAndStructs.csproj.AssemblyReference.cache
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\obj\Debug\EnumsAndStructs.csproj.CoreCompileInputs.cache
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\obj\Debug\EnumsAndStructs.exe
+D:\Edstem\Assessment\EnumsAndStructs\EnumsAndStructs\obj\Debug\EnumsAndStructs.pdb

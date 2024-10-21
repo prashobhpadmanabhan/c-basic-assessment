@@ -1,0 +1,7 @@
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.AssemblyReference.cache
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+C:\Users\prash\OneDrive\Desktop\Assessment\FileOperations\FileOperations\obj\Debug\FileOperations.pdb
